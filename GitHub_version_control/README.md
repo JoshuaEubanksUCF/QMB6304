@@ -73,7 +73,7 @@ that is functional and the commit defines a checkpoint that allows you to revert
 in case you want to reverse changes in the future. 
 The next step is to *push* your changes to the online repository, 
 which makes a permanent change to the online repository, 
-thereby making those changes to other coders and the users of your code. 
+thereby making those changes available to other coders and the users of your code. 
 
 <img src="Images/GitHub_Workflow.jpg" width="1000"/>
 
@@ -500,7 +500,7 @@ It is as if you reversed those changes manually and then added and committed the
 
 
 P.S. This example was not the student's fault in any way. 
-I aciddentally pushed his content to the upstream instead of the origin of his mirror. 
+I accidentally pushed his content to the upstream instead of the origin of his mirror. 
 It happens to everyone...eventually. 
 Now we know how to fix it. 
 
